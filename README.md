@@ -1,4 +1,4 @@
-# vuejs-firebase-routing
+# vuejs-TodoApp
 
 ## Project setup
 ```
